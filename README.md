@@ -32,5 +32,5 @@ the talents of one very talented young programmer, but it is enough to make
 an entire gaming company proud and with more time and effort, this game could be
 released for the general public. This game is incredible and I daresay it is my 
 single most proud programming accomplishment to date (2015). I spent over 100 hours 
-coding this bad boy and I hope you enjoy it as much as I did. It's amazing.
+coding this bad boy and I hope you enjoy it as much as I did. It's amazing. 
 
